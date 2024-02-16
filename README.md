@@ -1,2 +1,2 @@
 # Java Projects
-# Hospital Management System
+<h2>Hospital Management System</h2>
